@@ -1,1 +1,7 @@
-Record=TopLevelDocument|FileName=12V-Power-Supplies.SchDoc
+Record=TopLevelDocument|FileName=12V-Power-Supplies.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=12V-Power-Supplies.SchDoc|FileName=Controllers.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=12V-Power-Supplies.SchDoc|FileName=Interfaces.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=12V-Power-Supplies.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=12V-Power-Supplies.SchDoc|FileName=Power-Supplies.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=12V-Power-Supplies.SchDoc|FileName=Sensors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=12V-Power-Supplies.SchDoc|FileName=Transceivers.SchDoc|SheetNumber=2
